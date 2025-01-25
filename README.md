@@ -62,5 +62,5 @@ This project provides an in-depth analysis of Delhi’s air quality and demonstr
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements:
-- The AQI dataset used in this project is publicly available and was sourced from [Insert Source Here].
+- The AQI dataset used in this project is publicly available and was sourced from kaggle.com.
 - Special thanks to the developers of **Pandas**, **Scikit-learn**, and **Google Colab** for providing powerful tools for data analysis and machine learning.
